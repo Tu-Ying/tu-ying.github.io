@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 涂晸穎
+subtitle: 個人網站
+description: 歡迎你來參觀我的個人網站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://leopardpan.cn"
+avatarDesc: JAVA / 軟體設計
+url: "http://tu-ying.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -19,13 +19,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: tu-ying
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: ben0105123@gmail.com
 
 
 # 百度统计 
@@ -61,14 +61,14 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 主頁
 
 # Navigation buttons in the front page.s
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 技术支持, description: support, url: '/support'}      
-    - {title: 关于我, description: about, url: '/about'}   
+    - {title: 標籤, description: tags, url: '/tags'}      
+    - {title: 技術支持, description: support, url: '/support'}      
+    - {title: 關於我, description: about, url: '/about'}   
     
 
 # Pagination
